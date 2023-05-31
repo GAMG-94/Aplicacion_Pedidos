@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Aplicacion_Pedidos": {
+      "commandName": "Project",
+      "hotReloadEnabled": true,
+      "nativeDebugging": true
+    }
+  }
+}
